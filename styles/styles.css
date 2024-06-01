@@ -1,0 +1,99 @@
+*
+{margin: 0px;
+padding: 0px;
+border:0px ;
+text-decoration: none;
+}
+img{
+   height: 100px;
+   width: 100px;
+
+}
+
+.menu{
+    margin: 40px;
+}
+nav{
+    display: flex;
+}
+.menu ul{
+    display: flex;
+    margin-left: 600px;
+    
+}
+.menu ul li{
+    list-style:none;
+    margin-left: 40px;
+    font-size: 20px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    margin-left: 1000px;
+    background-color: #8f8e8e;
+    color: rgb(62, 61, 63)
+    
+}
+.images{
+    height: 1000px;
+    width: 1000px;
+    margin-left: 50px;
+}
+.div{
+    display: flex;
+    margin-left: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
